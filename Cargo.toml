@@ -1,0 +1,12 @@
+[package]
+name = "Secondwelcome"
+version = "0.1.1"
+authors = ["ShahzadTabassum <www.shahzadtabassum786@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/ShahzadTabassum/Secondwelcome"
+homepage = "https://github.com/ShahzadTabassum/Secondwelcome"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = "Second Welcome Library"
+
+[dependencies]
