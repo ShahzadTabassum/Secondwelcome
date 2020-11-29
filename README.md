@@ -3,18 +3,18 @@ this is a demo rust library published on crates.io
 
 to use this library you have to add following line in dependency section of cargo.toml
 
-`Secondwelcome = "0.1.1"`
+`Secondwelcome = "0.1.2"`
 
 your cargo.toml file should look like this:
 ```
 [package]
 name = "hello_world"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["ShahzadTabassum <www.shahzadtabassum786@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-Secondwelcome = "0.1.1"
+Secondwelcome = "0.1.2"
 ```
 
 In `src/main.rs` you can use like this:
